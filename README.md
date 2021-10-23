@@ -21,12 +21,12 @@
 <a href="mailto:shivamg@gmail.com">
   <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 <br><br>
-<img src="https://github.com/codebanda/codebanda/blob/main/header_.png"
+<img src="https://github.com/codebanda/codebanda/blob/7fd6fe80d17c4a889dba7fc46ae7ceadcbd24a01/header_.png"
 
 ## <p align="center"><h4 align="center"><samp> Web Developer, An Open Source Contributor, Cloud Practitioner ☁  & A Programmer </samp></h4></p>
 
 <div>
-<img align="right" src="https://github.com/codebanda/codebanda/blob/7fd6fe80d17c4a889dba7fc46ae7ceadcbd24a01/header_.png" width="40%"/>
+<img align="right" src="https://github.com/codebanda/codebanda/blob/f72e33098aec6a3f53651ff7835549ded26db2c6/terminal.gif" width="40%"/>
   <br>
 
 - 👷 <samp>Currently pursuing B.Tech in Computer Science Engrineering(2020-2024) from Eshan College Of Engineering
@@ -52,14 +52,14 @@
 ![Matlab](https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white)
 
 <span>
-<img src="https://github.com/codebanda/codebanda/main/imgs/c.svg" alt="drawing" width="50"/>
-<img src="https://github.com/codebanda/codebanda/blob/main/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
-<img src="https://github.com/codebanda/codebanda/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
-<img src="https://github.com/codebanda/codebanda/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
-<img src="https://github.com/codebanda/codebanda/blob/main/imgs/readme.svg" alt="drawing" width="50"/>
-<img src="https://github.com/codebanda/codebanda/blob/main/imgs/html.svg" alt="drawing" width="50"/>
-<img src="https://github.com/codebanda/codebanda/blob/main/imgs/css.svg" alt="drawing" width="50"/>
-<img src="https://github.com/codebanda/codebanda/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
+<img src="https://github.com/codebanda/codebanda/blob/f72e33098aec6a3f53651ff7835549ded26db2c6/imgs/c.svg" alt="drawing" width="50"/>
+<img src="https://github.com/codebanda/codebanda/blob/f72e33098aec6a3f53651ff7835549ded26db2c6/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
+<img src="https://github.com/codebanda/codebanda/blob/f72e33098aec6a3f53651ff7835549ded26db2c6/imgs/python-5.svg" alt="drawing" width="50"/>
+<img src="https://github.com/codebanda/codebanda/blob/f72e33098aec6a3f53651ff7835549ded26db2c6/imgs/mysql-6.svg" alt="drawing" width="50"/>
+<img src="https://github.com/codebanda/codebanda/blob/f72e33098aec6a3f53651ff7835549ded26db2c6/imgs/readme.svg" alt="drawing" width="50"/>
+<img src="https://github.com/codebanda/codebanda/blob/f72e33098aec6a3f53651ff7835549ded26db2c6/imgs/html.svg" alt="drawing" width="50"/>
+<img src="https://github.com/codebanda/codebanda/blob/f72e33098aec6a3f53651ff7835549ded26db2c6/imgs/css.svg" alt="drawing" width="50"/>
+<img src="https://github.com/codebanda/codebanda/blob/f72e33098aec6a3f53651ff7835549ded26db2c6/imgs/javascript.svg" alt="drawing" width="50"/>
 >
   </span>
     
