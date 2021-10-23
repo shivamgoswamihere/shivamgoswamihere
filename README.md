@@ -26,7 +26,7 @@
 ## <p align="center"><h4 align="center"><samp> Web Developer, An Open Source Contributor, Cloud Practitioner ☁  & A Programmer </samp></h4></p>
 
 <div>
-<img align="right" src="https://github.com/codebanda/codebanda/blob/main/terminal.gif" width="40%"/>
+<img align="right" src="https://github.com/codebanda/codebanda/main/terminal.gif" width="40%"/>
   <br>
 
 - 👷 <samp>Currently pursuing B.Tech in Computer Science Engrineering(2020-2024) from Eshan College Of Engineering
