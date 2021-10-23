@@ -21,7 +21,7 @@
 <a href="mailto:shivamg@gmail.com">
   <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 <br><br>
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+![](https://github.com/codebanda/codebanda/blob/main/header_.png)
 
 ## <p align="center"><h4 align="center"><samp> Web Developer, An Open Source Contributor, Cloud Practitioner ☁  & A Programmer </samp></h4></p>
 
