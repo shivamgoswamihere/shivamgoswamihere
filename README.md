@@ -60,7 +60,6 @@
 <img src="https://github.com/codebanda/codebanda/blob/f72e33098aec6a3f53651ff7835549ded26db2c6/imgs/html.svg" alt="drawing" width="50"/>
 <img src="https://github.com/codebanda/codebanda/blob/f72e33098aec6a3f53651ff7835549ded26db2c6/imgs/css.svg" alt="drawing" width="50"/>
 <img src="https://github.com/codebanda/codebanda/blob/f72e33098aec6a3f53651ff7835549ded26db2c6/imgs/javascript.svg" alt="drawing" width="50"/>
->
   </span>
     
 ##
@@ -77,11 +76,11 @@
 ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
   
 <span>
-<img src="https://github.com/codebanda/codebanda/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/codebanda/codebanda/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
-<img src="https://github.com/codebanda/codebanda/blob/main/imgs/google-cloud-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/codebanda/codebanda/blob/main/imgs/hackerrank.svg" alt="drawing" width="50"/>
-<img src="https://github.com/codebanda/codebanda/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
+<img src="https://github.com/codebanda/codebanda/blob/881c4c230835d98a527310121a3025f28e46bbe6/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/codebanda/codebanda/blob/881c4c230835d98a527310121a3025f28e46bbe6/imgs/git-icon.svg" alt="drawing" width="40"/>
+<img src="https://github.com/codebanda/codebanda/blob/881c4c230835d98a527310121a3025f28e46bbe6/imgs/google-cloud-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/codebanda/codebanda/blob/881c4c230835d98a527310121a3025f28e46bbe6/imgs/hackerrank.svg" alt="drawing" width="50"/>
+<img src="https://github.com/codebanda/codebanda/blob/881c4c230835d98a527310121a3025f28e46bbe6/imgs/vscode.svg" alt="drawing" width="40"/>
 </span>
 <hr> 
   
