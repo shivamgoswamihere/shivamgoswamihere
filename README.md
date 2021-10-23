@@ -52,7 +52,7 @@
 ![Matlab](https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white)
 
 <span>
-<img src="https://github.com/codebanda/codebanda/blob/main/imgs/c.svg" alt="drawing" width="50"/>
+<img src="https://github.com/codebanda/codebanda/main/imgs/c.svg" alt="drawing" width="50"/>
 <img src="https://github.com/codebanda/codebanda/blob/main/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
 <img src="https://github.com/codebanda/codebanda/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
 <img src="https://github.com/codebanda/codebanda/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
