@@ -26,7 +26,7 @@
 ## <p align="center"><h4 align="center"><samp> Web Developer, An Open Source Contributor, Cloud Practitioner ☁  & A Programmer </samp></h4></p>
 
 <div>
-<img align="right" src="https://github.com/codebanda/codebanda/blob/f72e33098aec6a3f53651ff7835549ded26db2c6/code.gif" width="40%"/>
+<img align="right" src="https://github.com/shivamgoswamihere/shivamgoswamihere/blob/54347fc486e16a32571e0747382615f49aab0c9f/code.gifadde" width="40%"/>
   <br>
 
 - 👷 <samp>Currently pursuing B.Tech in Computer Science Engrineering(2020-2024) from Eshan College Of Engineering
