@@ -40,6 +40,8 @@
 - ♟ <samp>I play a lot of games, thus have good decision making and reflex timing.
 - 🗣<samp> Public Speaker
 - 🎫<samp> Organized events.
+- 🤵🏽<sample> LinkedIn : https://www.linkedin.com/in/shivamgoswami-/
+- 🙋🏽‍♂️<sample> Twitter : https://twitter.com/ShivamGoswami_
 </div>
 
 ##
