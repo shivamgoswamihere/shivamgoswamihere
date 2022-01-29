@@ -34,10 +34,12 @@
 - ✍🏻 <samp>Core Member of College Community  
 - 🥇 <samp>Runner Up in College Hackathon 
 - 💼 <samp>I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.
-- 💬 <samp>Ask me about Web Dev/ Python / MySQL /
-- 🤔 <samp>I’m looking for help with DSA and how to excel in Competitive Programming
+- 💬 <samp>Ask me about Web Dev/ Python / MySQL 
+- 🤔 <samp>I’m looking for help with DSA and how to excel in Full Stack Develpment
 - ⚡ <samp>Fun fact: I am kinda talkative and sometimes irrirtating, but I am a determined guy.
 - ♟ <samp>I play a lot of games, thus have good decision making and reflex timing.
+- 🗣<samp> Public Speaker
+- 🎫<samp> Organized events.
 </div>
 
 ##
@@ -86,7 +88,7 @@
   
 <hr>
 
-  
+
 ##
 <p align="center"> 
   Visitor count<br>
