@@ -86,15 +86,7 @@
   
 <hr>
 
-### Spotify Playing 🎧
-
-![Spotify](https://novatorem.vercel.app/api/spotify)
-
-<br/>
- 
- <hr>
   
-
 ##
 <p align="center"> 
   Visitor count<br>
