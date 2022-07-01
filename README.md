@@ -1,4 +1,4 @@
-# Hey Everyone! I'm [Shivam Goswami!](https://github.com/codebanda) <img src="https://github.com/shivamgoswamihere/shivamgoswamihere/blob/master/wave-hello.gif" width="15px">
+# Hey Everyone! I'm [Shivam Goswami!](https://github.com/codebanda) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/shivamgoswamihere/shivamgoswamihere/blob/master/wave-hello.gif" width="6%">
 <br><br>
 <a href="https://twitter.com/ShivamGoswami_">
   <img align="left" alt="Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
