@@ -23,7 +23,7 @@
 <br><br>
 <img src="https://github.com/codebanda/codebanda/blob/7fd6fe80d17c4a889dba7fc46ae7ceadcbd24a01/header_.png"
 
-## <p align="center"><h4 align="center"><samp> Web Developer, An Open Source Contributor, Cloud Practitioner ☁  & A Programmer </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> Web Developer, Open Source Contributor, Cloud Practitioner ☁  & Programmer </samp></h4></p>
 
 <div>
 <img align="right" src="https://github.com/shivamgoswamihere/shivamgoswamihere/blob/54347fc486e16a32571e0747382615f49aab0c9f/code.gif" width="40%"/>
