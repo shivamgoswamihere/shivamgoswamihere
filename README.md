@@ -19,7 +19,7 @@
   <img align="left" alt="akd's codechef" src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.rating&url=https://competitive-coding-api.herokuapp.com/api/codechef/codebanda&prefix=Rating%20&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=900" />
 </a>
 <a href="mailto:shivamg@gmail.com">
-  <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+  <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 <br><br>
 <img src="https://github.com/codebanda/codebanda/blob/7fd6fe80d17c4a889dba7fc46ae7ceadcbd24a01/header_.png"
 
@@ -40,8 +40,6 @@
 - ♟ <samp>I play a lot of games, thus have good decision making and reflex timing.
 - 🗣<samp> Public Speaker
 - 🎫<samp> Organized events.
-- 🤵🏽<sample> LinkedIn : https://www.linkedin.com/in/shivamgoswami-/
-- 🙋🏽‍♂️<sample> Twitter : https://twitter.com/ShivamGoswami_
 </div>
 
 ##
