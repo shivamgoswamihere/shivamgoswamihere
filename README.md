@@ -26,14 +26,13 @@
 <img align="right" src="https://github.com/shivamgoswamihere/shivamgoswamihere/blob/54347fc486e16a32571e0747382615f49aab0c9f/code.gif" width="40%"/>
   <br>
 
-- 👷 <samp>Currently pursuing B.Tech in Computer Science Engineering(2020-2024) from Eshan College Of Engineering
+- 👷 <samp>B.Tech in Computer Science Engineering(2020-2024) from Eshan College Of Engineering
 - 🔭 <samp> Curious towards Research Work
-- ✍🏻 <samp> Founder and Lead of Google Developer Students Club - Eshan College Of Engineering
+- ✍🏻 <samp> Founder and Lead of Google Developer Students Club (2022) - Eshan College Of Engineering
 - 🥇 <samp>Runner Up in College Hackathon 
-- 💼 <samp>I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.
-- 💬 <samp>Ask me about Community Managment/ Event Management /Web Dev/ Python / DBMS 
-- ⚡ <samp>Fun fact: I am kinda talkative and sometimes irritating, but I am determined.
-- ♟ <samp>I play many games, thus have good decision-making and reflex timing.
+- 💼 <samp>I’m looking for **Web Developer** Opportunities/roles.
+- 💬 <samp>Ask me about React/ Node.js/ Express.js/ MongoDB/ Community Managment/ Event Management
+- ⚡ <samp>Fun fact: I am talkative and determined.
 - 🗣<samp> Public Speaker
 - 🎫<samp> Organized events.
 </div>
@@ -41,13 +40,14 @@
 ##
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
-![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
 <span>
+  	![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 <img src="https://github.com/codebanda/codebanda/blob/f72e33098aec6a3f53651ff7835549ded26db2c6/imgs/c.svg" alt="drawing" width="50"/>
 <img src="https://github.com/codebanda/codebanda/blob/f72e33098aec6a3f53651ff7835549ded26db2c6/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
 <img src="https://github.com/codebanda/codebanda/blob/f72e33098aec6a3f53651ff7835549ded26db2c6/imgs/python-5.svg" alt="drawing" width="50"/>
@@ -61,9 +61,8 @@
 ##
 <h3><b><samp>Tools and Platform</samp></b></h3>
 
-![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
