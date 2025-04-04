@@ -47,7 +47,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
 <span>
-  	![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 <img src="https://github.com/codebanda/codebanda/blob/f72e33098aec6a3f53651ff7835549ded26db2c6/imgs/c.svg" alt="drawing" width="50"/>
 <img src="https://github.com/codebanda/codebanda/blob/f72e33098aec6a3f53651ff7835549ded26db2c6/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
 <img src="https://github.com/codebanda/codebanda/blob/f72e33098aec6a3f53651ff7835549ded26db2c6/imgs/python-5.svg" alt="drawing" width="50"/>
@@ -62,7 +61,7 @@
 <h3><b><samp>Tools and Platform</samp></b></h3>
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
