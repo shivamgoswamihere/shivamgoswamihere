@@ -12,11 +12,16 @@
 <a href="https://www.instagram.com/shivamgoswami__/">
   <img align="left" alt="Shivam's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+<a href="https://leetcode.com/u/shivamgoswami/">
+  <img align="left" alt="Shivam's Leetcode" width="100px" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+</a>
 
 <br><br>
 
+
 <a href="mailto:shivamg@gmail.com">
   <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  
 <br><br>
 <img src="https://github.com/codebanda/codebanda/blob/7fd6fe80d17c4a889dba7fc46ae7ceadcbd24a01/header_.png">
 
@@ -27,9 +32,7 @@
   <br>
 
 - 👷 <samp>B.Tech in Computer Science Engineering(2020-2024) from Eshan College Of Engineering
-- 🔭 <samp> Curious towards Research Work
 - ✍🏻 <samp> Founder and Lead of Google Developer Students Club (2022) - Eshan College Of Engineering
-- 🥇 <samp>Runner Up in College Hackathon 
 - 💼 <samp>I’m looking for **Web Developer** Opportunities/roles.
 - 💬 <samp>Ask me about React/ Node.js/ Express.js/ MongoDB/ Community Managment/ Event Management
 - ⚡ <samp>Fun fact: I am talkative and determined.
@@ -41,14 +44,13 @@
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <span>
@@ -65,11 +67,11 @@
 ##
 <h3><b><samp>Tools and Platform</samp></b></h3>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
   
 <span>
